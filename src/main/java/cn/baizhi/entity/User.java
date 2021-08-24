@@ -5,5 +5,10 @@ public class User {
     private Integer age;
 
     private String 王天德2222;
+    String aa="殷汇全";
+
+
+
+
 
 }
